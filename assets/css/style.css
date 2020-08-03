@@ -210,6 +210,18 @@ section{
     text-align: right;
 }
 
+/*apply styles to the contact section*/
+.contact{
+    text-align: center;
+    background-color: #024e76;
+}
+
+.contact h2{
+    color: #fce138;
+}
+.contact-info{
+
+}
 /*apply styles to the footer*/
 footer {
     background: #fce138;
